@@ -45,11 +45,11 @@ Configuración y Ejecución por Sistema Operativo
 2. Ejecuta la herramienta: python conversor_imagenes.py
 
 
-## Image-Converter - Created by armanson_English
+## Image-Converter - Created by armanson ( English )
 A powerful and easy-to-use local image converter designed to transform your photos directly from the terminal. Convert your images quickly and efficiently!
 
 Key Features
-This tool is a command-line interface (CLI/CUI) application that lets you intuitively convert your images between various formats.
+This tool is a desktop interface application that lets you intuitively convert your images between various formats.
 
 Supported Image Formats
 The tool is compatible with the following formats for both reading (input) and writing (output):
@@ -63,7 +63,7 @@ WEBP
 
 Highlighted Features
 Automatic Format Detection: Don't worry about the input format; the tool detects it automatically for you.
-Intuitive CLI Interface: Despite running in the terminal, it guides you step-by-step with clear numeric menus and direct questions.
+Intuitive GUI Interface
 Native Saving: After conversion, your operating system's file explorer (Linux, macOS, Windows) will open, allowing you to conveniently choose where to save your new image.
 Input Validation: The program verifies your selections and paths to ensure a smooth workflow.
 
