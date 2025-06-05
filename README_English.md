@@ -7,7 +7,7 @@ This tool is a command-line interface (CLI/CUI) application that lets you intuit
 Supported Image Formats
 The tool is compatible with the following formats for both reading (input) and writing (output):
 
-HEIC (Yes, includes files from your iPhone!)
+HEIC (Includes files from your iPhone)
 JPG
 JPEG
 PNG
