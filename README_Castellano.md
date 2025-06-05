@@ -1,4 +1,4 @@
-# Image-Converter - Creado por armanson
+## Image-Converter - Creado por armanson
 
 Funcionalidades Principales
 Esta herramienta es una aplicación de línea de comandos (CLI/CUI) que te permite convertir tus imágenes entre diversos formatos de manera intuitiva.
@@ -6,7 +6,7 @@ Esta herramienta es una aplicación de línea de comandos (CLI/CUI) que te permi
 Formatos de Imagen Soportados
 La herramienta es compatible con los siguientes formatos, tanto para lectura (entrada) como para escritura (salida):
 
-HEIC (¡Sí, incluye los archivos de tu iPhone!)
+HEIC (Incluye los archivos de tu iPhone!)
 JPG
 JPEG
 PNG
